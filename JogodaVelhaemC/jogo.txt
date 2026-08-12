@@ -1,0 +1,5 @@
+O | X | O
+O | X |  
+X | X | O
+Vitoria do jogador X
+Total de jogadas foi 8
